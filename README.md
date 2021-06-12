@@ -1,14 +1,6 @@
 ## High Adventure Camp
 #### Nemeth Cabin | Pleasant 1st Ward Priest Quorum | June 10-12, 2021
 
-<br>
-
-### Documents
-
-- [Agenda & Packing List](https://github.com/erikgregorywebb/high-adventure-2021/blob/main/documents/Agenda%20%26%20Packing%20List(1).pdf)
-- [Cooking Schedule](https://github.com/erikgregorywebb/high-adventure-2021/blob/main/documents/Cooking%20%26%20Cleaning%20Assignments(1).pdf)
-- [Devotional Slides](https://docs.google.com/presentation/d/1__VJUJ4EQtWOFvq_sA6Oej7EaEs_nN5lBfj2VD1wNS8/edit?usp=sharing)
-
 ### Fishing
 
 ![Image](images/20210611_194241_resized.jpg?raw=true)
@@ -156,3 +148,9 @@
 ![Image](images/IMG_6094.JPG?raw=true)
 <br>
 <br>
+
+### Documents
+
+- [Agenda & Packing List](https://github.com/erikgregorywebb/high-adventure-2021/blob/main/documents/Agenda%20%26%20Packing%20List(1).pdf)
+- [Cooking Schedule](https://github.com/erikgregorywebb/high-adventure-2021/blob/main/documents/Cooking%20%26%20Cleaning%20Assignments(1).pdf)
+- [Devotional Slides](https://docs.google.com/presentation/d/1__VJUJ4EQtWOFvq_sA6Oej7EaEs_nN5lBfj2VD1wNS8/edit?usp=sharing)
